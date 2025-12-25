@@ -1,10 +1,13 @@
-<h1 align= "center">Astra Byte Sync Company</h1>
+<h1 align= "center">Welcome To Ny Github Profile</h1>
 </p>
 
 <h1>Overview 🚀</h1>
-<p>Astra Byte Sync Company, founded in 2019, is a dynamic software development firm located in New York, United States. Over the past six years, the company has established itself as a global player in the tech industry, focusing on outsourcing and recruiting talent to meet diverse client needs.
+<p>I am an expert Full Stack Developer with over 6+ years of experience in building scalable, high-performance Web and AI applications.</p>
 
-<h1>Importance in Software Development 🎯</h1>
-<p>With over 10 years experience in software analysis and design and a deep understanding of the latest IT trends and solutions, we provide customized recommendations and strategies to help you improve your operations, reduce costs, and increase efficiency.</p>
+
+<h1>Keywords 🎯</h1>
+<p>
+Full Stack Developer, React.js, Next.js, Redux, TypeScript, JavaScript, Node.js, Express.js, Nest.js, MongoDB, Python, Django, Flask, FastAPI, DynamoDB, MySQL, PostgreSQL, AWS Lambda, Docker, GraphQL, RESTful APIs,  Azure, OAuth 2.0, JWT, CI/CD, Vercel, Netilify, Paypal Integration, Stripe Integration, AWS RDS, AWS CloudFormation, Redis, Socket.io, GRPC, Azure DevOps, Firebase, Webpack, OpenAI, ChatGPT, LangChain, Gemini, Vapi, Retell AI, AI model, Automation, BootStrap, TailwindCSS
+</p>
 <br>
-<p>Feel free to contact our <a href="mailto:info@astrabytesyncs.com" target="_blank"><strong>Company</strong></a>.</p>
+<p>Feel free to contact my <a href="mailto:ikxoqjop@gmail.com" target="_blank"><strong>Email</strong></a>.</p>
